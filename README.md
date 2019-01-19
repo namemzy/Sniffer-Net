@@ -1,5 +1,10 @@
 # Sniffer-Net
 A unified network structure  specialized for smoke detection and concentration evaluation in the wild.
+## Prerequisites
+- Ubuntu 16.04
+- Pytorch 1.0
+- CUDA 8.0 and cuDNN 5.1
+- opencv3
 ## The dataset is available on:
 ### image pairs
 https://pan.baidu.com/s/1dJS7aKZKILOK5LffN1nu4Q
