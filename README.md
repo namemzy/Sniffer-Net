@@ -1,4 +1,5 @@
-# Sniffer-Net
+Sniffer-Net
+===========
 <p align="left">
 		<img src="https://img.shields.io/badge/version-0.1-brightgreen.svg?style=flat-square"
 			 alt="Version">
@@ -8,10 +9,10 @@
 			 alt="Platform">
 		<img src="https://img.shields.io/badge/PyTorch version-1.0-blue.svg?style=flat-square"
 			 alt="PyTorch">
-		<img src="https://img.shields.io/badge/License-CC BY·NC 4.0-green.svg?style=flat-square"
+		<img src="https://img.shields.io/badge/License-MIT License-green.svg?style=flat-square"
 			 alt="License">
 </p>
-A unified network structure  specialized for smoke detection and concentration evaluation in the wild.
+	A unified network structure  specialized for `smoke detection` and `concentration evaluation` in the wild.
 
 ## Demo
 This is a demo of our Sniffer-Net (including smoke detection, optical flow inpainting, smoke concentration evaluation).<b>
@@ -52,4 +53,7 @@ Implementation
 - Pytorch 1.0
 - CUDA 8.0 and cuDNN 5.1
 - opencv3<b>
-
+	
+MIT License
+-----------
+Copyright (c) `2019 namemzy`
