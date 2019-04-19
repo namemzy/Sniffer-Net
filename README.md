@@ -12,6 +12,7 @@
 			 alt="License">
 </p>
 	A unified network structure  specialized for smoke detection and concentration evaluation in the wild.<b>
+	
 ## Demo
 This is a demo of our Sniffer-Net (including smoke detection, optical flow inpainting, smoke concentration evaluation).<b>
   
