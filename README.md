@@ -54,7 +54,7 @@ https://pan.baidu.com/s/1woqMBD7qwQMciccOpmU2CQ
 ### <span id='ins'>Installation</span>
 - Clone this repo
 - Install PyTorch and dependencies from http://pytorch.org
-
+- Waiting for update ...
 
 ## MIT License
 Copyright (c) `2019 namemzy`
