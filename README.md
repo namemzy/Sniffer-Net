@@ -51,5 +51,23 @@ https://pan.baidu.com/s/1woqMBD7qwQMciccOpmU2CQ
 - CUDA 8.0 and cuDNN 5.1
 - opencv3<b>
 	
+### <span id='ins'>Installation</span>
+- Clone this repo
+- Install PyTorch and dependencies from http://pytorch.org
+
+
 ## MIT License
 Copyright (c) `2019 namemzy`
+### Citation
+
+If you find this project useful for your research, please cite:
+
+```
+@{smoke detection project,
+author = {namemzy},
+title = {Sniffer-Net},
+website = {https://github.com/namemzy/Sniffer-Net},
+month = {April},
+year = {2019}
+}
+```
