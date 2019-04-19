@@ -1,8 +1,10 @@
 # Sniffer-Net
+![tag](https://img.shields.io/badge/project-smoke%20detection-orange.svg)
 <p align="left">
 		<img src="https://img.shields.io/badge/version-0.1-brightgreen.svg?style=flat-square"
 			 alt="Version">
-		<img src="https://img.shields.io/badge/status-Release-gold.svg?style=flat-square"
+	![tag](https://img.shields.io/badge/project-smoke%20detection-orange.svg)
+		<img src="https://img.shields.io/badge/status-developing-gold.svg?style=flat-square"
 			 alt="Status">
 		<img src="https://img.shields.io/badge/platform-linux16.04-lightgrey.svg?style=flat-square"
 			 alt="Platform">
